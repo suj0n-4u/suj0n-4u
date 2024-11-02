@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 🔭 **I’m currently working on exciting projects in full-stack development and refining my app development skills.**
-- 👯 **Connect with me on [Telegram](https://t.me/sujon432x) (username: **sujon432x**) to discuss potential collaborations!**
+- 👯 **Connect with me on [Telegram](https://t.me/suj0n-4u) (username: **sujon432x**) to discuss potential collaborations!**
 - 🤝 **I’m looking for help with optimizing algorithms for efficient web solutions.**
 - 🌱 **I’m currently learning advanced aspects of React, Node.js,PHP,and Web3.js.**
 - 💬 **Ask me about anything related to web development, algorithms, or app development.**
